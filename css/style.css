@@ -117,7 +117,8 @@
   .testimonials__daniel {
     background-image: url(/images/bg-pattern-quotation.svg);
     background-repeat: no-repeat;
-    background-position: top right;
+    background-position: 90% 0;
+    background-size: 4rem;
   }
 
   .user__detail{
