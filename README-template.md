@@ -1,0 +1,1 @@
+It is very hard task for me but i learn a lot of things here like grid-template and a lot of other elements about grid. I will start using grid instead of flex from now. thank you
